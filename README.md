@@ -10,6 +10,7 @@ Proyecto para la asignatura de Audiovisuales, es un laberinto en donde se usan l
 > * Modular
 > * Effects
 > * Escalera Penrose
+> * Laberinto
 
 ---
 
